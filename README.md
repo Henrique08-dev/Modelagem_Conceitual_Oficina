@@ -130,3 +130,7 @@ Entidades Principais e Seus Atributos
 5. Um agendamento pode gerar uma OS (relacionamento opcional)
 6. Uma OS pode ter múltiplos pagamentos
 7. Cada OS contém múltiplos itens de serviço e peças
+
+---
+
+**Desenvolvido como parte da Formação Power BI Analyst - Digital Innovation One**
